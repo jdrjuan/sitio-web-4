@@ -39,7 +39,7 @@ p {
 
 .form-footer textarea:focus,
 .form-footer input:focus {
-    background-color: #eeb;
+    background-color: rgb(222, 222, 170);
 }
 
 .form-footer input[type="submit"] {
